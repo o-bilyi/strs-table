@@ -1,0 +1,1 @@
+export { StrsTable } from './Strs-table';
